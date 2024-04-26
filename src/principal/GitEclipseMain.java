@@ -1,6 +1,6 @@
 package principal;
 
-// Version 3
+// Version de prueba
 public class GitEclipseMain {
 
 	public static void main(String[] args) {
